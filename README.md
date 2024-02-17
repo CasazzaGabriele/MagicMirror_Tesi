@@ -1,5 +1,6 @@
 <h1>Project Overview</h1>
 <img src="Screenshot 2024-02-16 145817.png" width="600px" height="400px">
+https://github.com/CasazzaGabriele/MagicMirror_Tesi/assets/144691446/b1f6c3b3-1a43-408b-af24-a3a4a6d205d7
 <p>
 Magic mirror is a mobile app that allows you to try various clothing using AR,<br>
 It was developed with both the consumer and the business in mind
@@ -67,3 +68,7 @@ It was developed with both the consumer and the business in mind
   <li>Apple ArKit 6.0</li>
   <li>Unity OpenXR 1.9.1</li>
 </ul>
+
+
+
+
