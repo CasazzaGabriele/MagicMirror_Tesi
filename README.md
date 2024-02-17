@@ -29,17 +29,6 @@ It was developed with both the consumer and the business in mind
   </ul>
 </p>
 
-<h2>Quick start guide</h2>
-<p>
-  <ol>
-    <li>Clone this repository using this link: https://github.com/jady17500/UnityMagicMirror.git</li>
-    <li>Open the unity project using Unity Hub on a MacOs device</li>
-    <li>Navigate to Assets/Scenes/BodyTracking/HumanBodyTracking3D.unity</li>
-    <li>Go to File>Build Settings and click on Add open Scenes</li>
-    <li>Choose IOS as the platform,conncet your device to your pc and click build and run</li>
-    <li>Wait for XCode to install the application to your device</li>
-  </ol>
-</p>
 <h2>How to use</h2>
 <p>
   <ol>
